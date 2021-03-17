@@ -1,3 +1,9 @@
+English: ![en](https://user-images.githubusercontent.com/69988594/111467715-d155a700-8735-11eb-8164-438335e50276.png)
+
+
+![This screenshot is taken from the index-en.html file.](https://user-images.githubusercontent.com/69988594/111467500-8d62a200-8735-11eb-92d2-ece016c89b66.PNG)
+This screenshot is taken from the index-en.html file.
+
 # For Nikola Tesla
 - Specially designed for Nikola Tesla. Nikola Tesla's words are available.
  
@@ -23,13 +29,15 @@ document.write("Add word title" + "\"<i>" + typhoon[index] + "</i>\"\n word endi
 typhoon[0] = "words - author";
 ```
 
+
+Türkçe: ![tr](https://user-images.githubusercontent.com/69988594/111467688-c7cc3f00-8735-11eb-8345-b62612860ddd.png)
+
+![Bu ekran görüntüsü index-tr.html dosyasından alınmıştır.](https://user-images.githubusercontent.com/69988594/111467637-b5520580-8735-11eb-8c87-b93963dcebad.PNG)
+Bu ekran görüntüsü index-tr.html dosyasından alınmıştır.
+
+
 # For Nikola Tesla
  - Nikola Tesla için özel olarak tasarlanmıştır. Nikola Tesla'nın sözleri mevcuttur. 
- 
-# Screenshot
-- This screenshot is taken from the index-en.html file.
-
-
  
 # Basit kelime ekle
  - Javascript ile rastgele kelimeler ekleyerek farklı projelerde kullanabilirsiniz.
@@ -52,6 +60,3 @@ document.write("Kelime başlığı ekleyin" + "\"<i>" + typhoon[index] + "</i>\"
 ```javascript
 typhoon[0] = "kelimeler - yazar";
 ```
-
-# Ekran Görüntüsü
-- Bu ekran görüntüsü index-tr.html dosyasından alınmıştır.
