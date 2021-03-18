@@ -4,10 +4,10 @@ English: ![en](https://user-images.githubusercontent.com/69988594/111467715-d155
 _This screenshot is taken from the index-en.html file._
 
 # For Nikola Tesla
-- Specially designed for Nikola Tesla. Nikola Tesla's words are available.
+Specially designed for Nikola Tesla. Nikola Tesla's words are available.
  
 # Add simple words
- - You can use it in different projects by adding random words with Javascript.
+ You can use it in different projects by adding random words with Javascript.
 
 ```javascript
 typhoon[0] = "words";
@@ -35,10 +35,10 @@ Türkçe: ![tr](https://user-images.githubusercontent.com/69988594/111467688-c7c
 _Bu ekran görüntüsü index-tr.html dosyasından alınmıştır._
 
 # For Nikola Tesla
- - Nikola Tesla için özel olarak tasarlanmıştır. Nikola Tesla'nın sözleri mevcuttur. 
+Nikola Tesla için özel olarak tasarlanmıştır. Nikola Tesla'nın sözleri mevcuttur. 
  
 # Basit kelime ekle
- - Javascript ile rastgele kelimeler ekleyerek farklı projelerde kullanabilirsiniz.
+Javascript ile rastgele kelimeler ekleyerek farklı projelerde kullanabilirsiniz.
 
 ```javascript
 typhoon[0] = "kelimeler";
@@ -49,12 +49,12 @@ typhoon[2] = "kelimeler";
 .
 ```
 
-- Sözcük başlangıcı ve bitişi için sabit metin ayarlayın.
+Sözcük başlangıcı ve bitişi için sabit metin ayarlayın.
 ```javascript
 document.write("Kelime başlığı ekleyin" + "\"<i>" + typhoon[index] + "</i>\"\n kelime biten metin");
 ```
 
-- Yazar alıntı ekle  (Bu şekilde kullanacaksanız. Yukarıdaki ayarı atlayın.)
+Yazar alıntı ekle  (Bu şekilde kullanacaksanız. Yukarıdaki ayarı atlayın.)
 ```javascript
 typhoon[0] = "kelimeler - yazar";
 ```
